@@ -13,6 +13,7 @@
 		77238A781E51738900FFAA63 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77238A771E51738900FFAA63 /* Assets.xcassets */; };
 		77238A7B1E51738900FFAA63 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77238A791E51738900FFAA63 /* LaunchScreen.storyboard */; };
 		77238A851E51762500FFAA63 /* MusicListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77238A841E51762500FFAA63 /* MusicListVC.swift */; };
+		77238A871E517D7C00FFAA63 /* PlaySongVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77238A861E517D7C00FFAA63 /* PlaySongVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		77238A7A1E51738900FFAA63 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		77238A7C1E51738900FFAA63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		77238A841E51762500FFAA63 /* MusicListVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MusicListVC.swift; sourceTree = "<group>"; };
+		77238A861E517D7C00FFAA63 /* PlaySongVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaySongVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				77238A791E51738900FFAA63 /* LaunchScreen.storyboard */,
 				77238A7C1E51738900FFAA63 /* Info.plist */,
 				77238A841E51762500FFAA63 /* MusicListVC.swift */,
+				77238A861E517D7C00FFAA63 /* PlaySongVC.swift */,
 			);
 			path = SwappingScreensDEV;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				77238A851E51762500FFAA63 /* MusicListVC.swift in Sources */,
+				77238A871E517D7C00FFAA63 /* PlaySongVC.swift in Sources */,
 				77238A731E51738900FFAA63 /* LoginVC.swift in Sources */,
 				77238A711E51738900FFAA63 /* AppDelegate.swift in Sources */,
 			);
